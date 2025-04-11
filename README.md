@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello,%20I'm%20TaroSin!&animation=&fontColor=ffffff&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello,%20I'm%20TaroSin!&animation=&fontColor=ffffff&fontSize=70" />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twokst)](https://solved.ac/twokst)
