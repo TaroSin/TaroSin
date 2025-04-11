@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello,%20I'm%20TaroSin!&animation=&fontColor=ffffff&fontSize=70" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=TaroSin's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twokst)](https://solved.ac/twokst)
@@ -8,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaroSin&layout=compact&theme=onedark)
 
-<h2> :computer:Tech Stack:computer: </h2>
+<h2> :computer:Skills:computer: </h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
