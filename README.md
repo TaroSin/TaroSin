@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello,%20I'm%20TaroSin!&animation=&fontColor=ffffff&fontSize=70" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=twokst)](https://solved.ac/twokst)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twokst)](https://solved.ac/twokst)
 
 [![TaroSin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaroSin&count_private=true&show_icons=true&theme=onedark)](https://github.com/TaroSin/github-readme-stats)
 
