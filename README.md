@@ -21,3 +21,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </div>
+
+
+## 📄 Resume & Portfolio
+| 항목       | 설명                  | 링크 |
+|------------|-----------------------|------|
+| 이력서     | 이력서(2025.05.18)  | [이력서 보기](https://github.com/user-attachments/files/20272330/_.pdf) |
+| 포트폴리오 | 프로젝트 요약 및 결과 | [포트폴리오 보기](https://github.com/user-attachments/files/20272333/_.pdf) |
+
