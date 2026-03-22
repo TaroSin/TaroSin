@@ -26,5 +26,5 @@
 ## 📄 Resume & Portfolio
 | 항목       | 수정                  | 링크 |
 |------------|-----------------------|------|
-| 이력서     | 2025.06.09  | [이력서 보기](https://github.com/user-attachments/files/26166583/_.pdf) |
-| 포트폴리오 | 2025.06.09  | [포트폴리오 보기](https://github.com/user-attachments/files/26166584/_.pdf) |
+| 이력서     | 2026.03.22  | [이력서 보기](https://github.com/user-attachments/files/26166583/_.pdf) |
+| 포트폴리오 | 2026.03.22  | [포트폴리오 보기](https://github.com/user-attachments/files/26166584/_.pdf) |
