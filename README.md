@@ -27,7 +27,6 @@
 | 항목       | 수정                  | 링크 |
 |------------|-----------------------|------|
 | 이력서     | 2026.06.04  | [이력서 보기](https://github.com/user-attachments/files/30214275/_.pdf) |
-
 | 포트폴리오 | 2026.06.04  | [포트폴리오 보기](https://github.com/user-attachments/files/30214287/_.pdf) |
 
 
