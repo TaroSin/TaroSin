@@ -26,5 +26,5 @@
 ## 📄 Resume & Portfolio
 | 항목       | 수정                  | 링크 |
 |------------|-----------------------|------|
-| 이력서     | 2026.06.04  | [이력서 보기](https://github.com/user-attachments/files/28584026/_.pdf) |
-| 포트폴리오 | 2026.06.04  | [포트폴리오 보기](https://github.com/user-attachments/files/28584033/_.pdf) |
+| 이력서     | 2026.06.04  | [이력서 보기](https://github.com/user-attachments/files/28584026/강성택_이력서.pdf) |
+| 포트폴리오 | 2026.06.04  | [포트폴리오 보기](https://github.com/user-attachments/files/28584033/강성택_포트폴리오.pdf) |
