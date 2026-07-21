@@ -30,3 +30,4 @@
 | 포트폴리오 | 2026.06.04  | [포트폴리오 보기](https://github.com/user-attachments/files/30214287/_.pdf) |
 
 
+[강성택_포트폴리오.pdf](https://github.com/user-attachments/files/30214333/_.pdf)
