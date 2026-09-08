@@ -5,10 +5,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twokst)](https://solved.ac/twokst)
 
-[![TaroSin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaroSin&count_private=true&show_icons=true&theme=onedark)](https://github.com/TaroSin/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaroSin&layout=compact&theme=onedark)
-
 <h2> :computer:Skills:computer: </h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -26,5 +22,5 @@
 ## 📄 Resume & Portfolio
 | 항목       | 수정                  | 링크 |
 |------------|-----------------------|------|
-| 이력서     | 2026.06.04  | [이력서 보기](https://github.com/user-attachments/files/30214275/_.pdf) |
-| 포트폴리오 | 2026.06.04  | [포트폴리오 보기](https://github.com/user-attachments/files/30214287/_.pdf) |
+| 이력서     | 2026.09.08  | [이력서 보기](https://github.com/user-attachments/files/31943227/_.pdf) |
+| 포트폴리오 | 2026.09.08  | [포트폴리오 보기](https://github.com/user-attachments/files/31943243/_.pdf) |
