@@ -184,7 +184,7 @@ Nike 협력 제조업체의 육안 검사 공정을 자동화하기 위해
 
 ## 📄 Resume & Portfolio
 
-<a href="https://github.com/user-attachments/files/31948297/_.pdf">
+<a href="https://github.com/user-attachments/files/31997153/_.pdf">
   <img src="https://img.shields.io/badge/Resume-2026.09.08-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
 
