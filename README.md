@@ -11,7 +11,37 @@ Why에서 출발해 How로 성과를 만드는 AI/ML 엔지니어입니다.
 기술 자체보다 **문제 정의 · 성공 지표 · 운영 제약**을 먼저 정리하고,  
 현재 문제에 가장 합리적인 방법을 선택해 End-to-End 시스템으로 연결하는 데 관심이 있습니다.
 
+<br>
+
+<a href="https://github.com/user-attachments/files/31997153/_.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</a>
+
+<a href="https://github.com/user-attachments/files/31948323/_.pdf">
+  <img src="https://img.shields.io/badge/Portfolio-Download-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
 </div>
+
+## 💼 Experience
+
+### ㈜아이씨티웨이
+**AI Engineer · 정보기술연구소**  
+`2025.10 ~ Present`
+
+- 폐쇄망 환경의 **Spatial Text2SQL** 시스템 설계 및 개발
+- 비정형 PDF를 구조화 데이터로 변환하는 **Document AI Parser** 구축
+- LLM/VLM 모델링부터 Backend, GPU Inference, DevOps까지 End-to-End 개발
+
+<br>
+
+### ㈜제논
+**AI Engineer Intern · DS**  
+`2025.04 ~ 2025.06`
+
+- **Flowise 기반 AI Agent** 설계 및 구축
+- Nike 신발 불량 탐지 모델 개발 및 **데이터 수집·품질관리(DQ)**
+- 응급실 특화 AI 기반 임상지원시스템 의료 데이터 분석/ML 모델링
 
 ---
 
@@ -175,21 +205,5 @@ Nike 협력 제조업체의 육안 검사 공정을 자동화하기 위해
 ## 🏆 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twokst)](https://solved.ac/twokst)
-
-</div>
-
----
-
-<div align="center">
-
-## 📄 Resume & Portfolio
-
-<a href="https://github.com/user-attachments/files/31997153/_.pdf">
-  <img src="https://img.shields.io/badge/Resume-2026.09.08-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</a>
-
-<a href="https://github.com/user-attachments/files/31948323/_.pdf">
-  <img src="https://img.shields.io/badge/Portfolio-2026.09.08-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
 
 </div>
